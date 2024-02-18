@@ -5,4 +5,5 @@ Uses package rlena for .its files import and package rPraat for .TextGrid files 
 This preliminary version allows only converting files one by one.
 Note that variable names and comments are in French.
 
-Author: Nicolas Audibert, Laboratoire de Phonétique et Phonologie, CNRS & U. Sorbonne Nouvelle
+Author: Nicolas Audibert, Laboratoire de Phonétique et Phonologie, CNRS & Sorbonne Nouvelle
+https://lpp.cnrs.fr/nicolas-audibert/
